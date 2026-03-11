@@ -1,9 +1,8 @@
-# IELE756 – Migration and Health Analysis
+# IELE756 – Migration, Health, and Socioeconomic Integration in Chile.
 Team members:
 - Catalina Cornejo
 - Javiera García
 
 Region:
 
-Description:
-Course project analyzing migration and health outcomes in Chile using Census 2024, ENO, and GRD datasets.
+Description: Analysis of migration, health outcomes, and socioeconomic integration in Chile using Census 2024, ENO, and GRD datasets.
