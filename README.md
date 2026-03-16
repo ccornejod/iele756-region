@@ -3,6 +3,6 @@ Team members:
 - Catalina Cornejo
 - Javiera García
 
-Region:
+Comunas: Renca, Lo Barnechea, Buin.
 
 Description: Analysis of migration, health outcomes, and socioeconomic integration in Chile using Census 2024, ENO, and GRD datasets.
